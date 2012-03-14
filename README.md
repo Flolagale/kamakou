@@ -1,6 +1,6 @@
 ##Kamakou color scheme for Vim
 Kamakou is an easy on eyes color scheme for [Vim] somehow in the vein of [molokai].<br>
-The theme is really designed for Vim with gui, but it is acceptable on 256 colors terminals.
+The theme is really designed for Vim with gui, but it is acceptable on 256 colors terminals.<br>
 Its implementation is based on the nice [mustang] color scheme.
 
 ###Installation
@@ -20,8 +20,7 @@ to your .vimrc file and run the
 
 command to automatically clone this repository into your home.
 
-Alternatively, you can copy the kamakou.vim file in your ~/.vim/colors folder on unix system,
-
+Alternatively, you can copy the kamakou.vim file in your ~/.vim/colors folder on unix system,<br>
 or in %HOMEPATH%\vimfiles\colors on Windows.
 
 ###Todo...
