@@ -14,7 +14,7 @@ With Vundle, add:
 
 to your .vimrc file and run the:
 
-```
+```VimL
     :BundleInstall
 ```
 
