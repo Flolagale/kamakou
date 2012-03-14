@@ -8,7 +8,7 @@ The prefered installation is to use [Vundle], a Vim plugin manager to install it
 
 With Vundle, add:
 
-```
+```VimL
     Bundle 'Flolagale/kamakou'
 ```
 
