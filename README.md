@@ -20,8 +20,8 @@ to your .vimrc file and run the:
 
 command to automatically clone this repository into your home.
 
-Alternatively, you can copy the kamakou.vim file in your ~/.vim/colors folder on unix system,<br>
-or in %HOMEPATH%\vimfiles\colors on Windows.
+Alternatively, you can copy the kamakou.vim file in your ```~/.vim/colors``` folder on unix system,<br>
+or in ```%HOMEPATH%\vimfiles\colors``` on Windows.
 
 ###Todo...
 Improve 256 colors terminal support. Forks and help appreciated...
