@@ -1,8 +1,6 @@
 ##Kamakou color scheme for Vim
-Kamakou is an easy on eyes color scheme for [Vim] somehow in the vein of [molokai].
-
+Kamakou is an easy on eyes color scheme for [Vim] somehow in the vein of [molokai].<br>
 The theme is really designed for Vim with gui, but it is acceptable on 256 colors terminals.
-
 Its implementation is based on the nice [mustang] color scheme.
 
 ###Installation
