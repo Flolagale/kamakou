@@ -7,17 +7,13 @@ Its implementation is based on the nice [mustang] color scheme.
 The prefered installation is to use [Vundle], a Vim plugin manager to install it.
 
 With Vundle, add:
-
 ```
     Bundle 'Flolagale/kamakou'
 ```
-
-to your .vimrc file and run the
-
+to your .vimrc file and run the:
 ```
     :BundleInstall
 ```
-
 command to automatically clone this repository into your home.
 
 Alternatively, you can copy the kamakou.vim file in your ~/.vim/colors folder on unix system,<br>
